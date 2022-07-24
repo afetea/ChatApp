@@ -1,0 +1,39 @@
+.container {
+  min-height: 100vh;
+  height: 100vh;
+  display: flex;
+}
+
+.usernameWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.usernameInner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  width: 60vh;
+  border-radius: 20px;
+  background-color: #2b272e;
+}
+.usernameInner input,
+.usernameInner button {
+  color: grey;
+  border-radius: 5px;
+  background-color: #2b272e;
+  border-style: solid;
+  border-color: grey;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 60%;
+  height: 40px;
+  font-size: larger;
+
+}
+.usernameInner button {
+  width: 20%;
+}
