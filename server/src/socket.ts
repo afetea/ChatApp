@@ -48,7 +48,7 @@ function socket({ io }: { io: Server }) {
             socket.to(roomId).emit(EVENTS.SERVER.ROOM_MESSAGE, {
                 message,
                 username,
-                time: `${date.getHours()};${date.getMinutes()}`,
+                time: `${date.getHours()}:${date.getMinutes()}`,
 
             });
         });

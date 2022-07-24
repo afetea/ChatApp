@@ -51,9 +51,9 @@ function SocketsProvider(props: any) {
         document.title = "New message...";
       }
 
-      setMessages((messages) => [...messages, { message, username, time }]);
+      setMessages([...messages, { message, username, time }]);
     });
-  }, [socket]);
+  });
 
   return (
     <SocketContext.Provider

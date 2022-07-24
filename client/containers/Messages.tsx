@@ -37,7 +37,7 @@ function MessagesContainer() {
                 return (
                 <div key={index} className={styles.message}>
                     <div key={index} className={styles.messageInner}>
-                        <span className={styles.messageSender}>{username} - {time}</span>
+                        <span className={styles.messageSender}>{username} {time}</span>
                     <span className = {styles.messageBody}>{message}</span>
                     </div>
                 </div>
