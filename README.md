@@ -1,8 +1,8 @@
 # Real Time Chat App
 
 <div align="center">
-    <img src="./assets/welcomePage.png" height="350"></a>
-    <img src="./assets/chatApp.png" height="350"></a>
+    <img src="./assets/welcomePage.PNG" height="350"></a>
+    <img src="./assets/chatApp.PNG" height="350"></a>
 </div>
 
 # About
