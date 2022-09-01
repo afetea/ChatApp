@@ -13,7 +13,7 @@ This web application allows users to message via different chat rooms. Chat room
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="75px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75px"/>
 </p>
 
 
@@ -23,13 +23,12 @@ This web application allows users to message via different chat rooms. Chat room
 | TypeScript |
 | Socket.io |
 | React.js |
-| Node.js  |
+| Next.js |
 
 # Back end
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="75px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="75px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75px"/>
 </p>
           
@@ -37,7 +36,6 @@ This web application allows users to message via different chat rooms. Chat room
 |---       |
 | TypeScript |
 | Socket.io |
-| Next.js |
 | Node.js  |
 
 
